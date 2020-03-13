@@ -5,4 +5,7 @@
 
  I am checking if this synchronizing the files I see on the web at http://github.com/gyzhao21
 
-Bing! -- I am done!
+
+I do not like the version I made on the web.  
+
+I prefer to changing it here.
