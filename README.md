@@ -7,6 +7,6 @@
 
  I am checking if this synchronizing the files I see on the web at http://github.com/gyzhao21
 
-Bing! -- I am done!
+
 </body>
 </html>
